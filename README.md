@@ -12,7 +12,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Software Engineer, currently exploring AI ML
+- :computer: Engineer by role, problem solver by passion — constantly building and breaking things to learn better.
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Application Engineer Intern at Hitachi Vantara
